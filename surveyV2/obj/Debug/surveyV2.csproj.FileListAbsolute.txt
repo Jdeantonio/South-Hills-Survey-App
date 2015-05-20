@@ -16,3 +16,9 @@ C:\Users\jdeantonio39\Documents\GitHub\South-Hills-Survey-App\surveyV2\obj\Debug
 C:\Users\jdeantonio39\Documents\GitHub\South-Hills-Survey-App\surveyV2\bin\Debug\surveyV2.exe
 C:\Users\jdeantonio39\Documents\GitHub\South-Hills-Survey-App\surveyV2\bin\Debug\surveyV2.pdb
 C:\Users\jdeantonio39\Documents\GitHub\South-Hills-Survey-App\surveyV2\obj\Debug\surveyV2.csprojResolveAssemblyReference.cache
+C:\Users\tshawver65\Documents\GitHub\South-Hills-Survey-App\surveyV2\bin\Debug\surveyV2.exe.config
+C:\Users\tshawver65\Documents\GitHub\South-Hills-Survey-App\surveyV2\obj\Debug\surveyV2.exe
+C:\Users\tshawver65\Documents\GitHub\South-Hills-Survey-App\surveyV2\obj\Debug\surveyV2.pdb
+C:\Users\tshawver65\Documents\GitHub\South-Hills-Survey-App\surveyV2\bin\Debug\surveyV2.exe
+C:\Users\tshawver65\Documents\GitHub\South-Hills-Survey-App\surveyV2\bin\Debug\surveyV2.pdb
+C:\Users\tshawver65\Documents\GitHub\South-Hills-Survey-App\surveyV2\obj\Debug\surveyV2.csprojResolveAssemblyReference.cache
