@@ -364,25 +364,10 @@ namespace surveyV2
                         disagree++;
                     }
 
-                    //for ()
-                    //{
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //    Console.WriteLine();
-                    //}
+                    for (int i = 0; i < 20; i++)
+                    {
+                        Console.WriteLine();
+                    }
                     
                     count++;
 
