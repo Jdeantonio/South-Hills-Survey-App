@@ -364,25 +364,25 @@ namespace surveyV2
                         disagree++;
                     }
 
-                    for ()
-                    {
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                        Console.WriteLine();
-                    }
+                    //for ()
+                    //{
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //    Console.WriteLine();
+                    //}
                     
                     count++;
 
@@ -448,7 +448,7 @@ namespace surveyV2
                     //    stopMEDQuestions = true;
                     //}
 
-                    if ((dictionary["IT"] > dictionary["BAMM"]) && (dictionary["IT"] > dictionary["HIT"]) && (dictionary["IT"] > dictionary["CJ"]) && (dictionary["IT"] > dictionary["MED"]))
+                    if ((dictionary["IT"] > dictionary["BAMM"]) && (dictionary["IT"] > dictionary["HIT"]) && (dictionary["IT"] > dictionary["CJ"]))
                     {
                         stopIT2Questions = false;
                     }
